@@ -1,27 +1,27 @@
 {
-  "_framework-D_rUT4EX.js": {
-    "file": "_next/static/chunks/framework-D_rUT4EX.js",
+  "_framework-CpU8czrD.js": {
+    "file": "system-snacks/_next/static/chunks/framework-CpU8czrD.js",
     "name": "framework",
     "imports": [
-      "_rolldown-runtime-C60lm6uB.js"
+      "_rolldown-runtime-Cdsi_2Sv.js"
     ]
   },
-  "_rolldown-runtime-C60lm6uB.js": {
-    "file": "_next/static/chunks/rolldown-runtime-C60lm6uB.js",
+  "_rolldown-runtime-Cdsi_2Sv.js": {
+    "file": "system-snacks/_next/static/chunks/rolldown-runtime-Cdsi_2Sv.js",
     "name": "rolldown-runtime"
   },
   "app/snacks.tsx": {
-    "file": "_next/static/chunks/snacks-DMi9ByLN.js",
+    "file": "system-snacks/_next/static/chunks/snacks-Bms9i9-j.js",
     "name": "snacks",
     "src": "app/snacks.tsx",
     "isDynamicEntry": true,
     "imports": [
-      "_rolldown-runtime-C60lm6uB.js",
-      "_framework-D_rUT4EX.js"
+      "_rolldown-runtime-Cdsi_2Sv.js",
+      "_framework-CpU8czrD.js"
     ]
   },
   "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
-    "file": "_next/static/chunks/app-route-prefetch-policy-C-pXh5kp.js",
+    "file": "system-snacks/_next/static/chunks/app-route-prefetch-policy-CMRSdhx9.js",
     "name": "app-route-prefetch-policy",
     "src": "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
     "isDynamicEntry": true,
@@ -30,34 +30,34 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-CrDy5gUA.js",
+    "file": "system-snacks/_next/static/chunks/layout-segment-context-BNwHiUaf.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
     "imports": [
-      "_rolldown-runtime-C60lm6uB.js",
+      "_rolldown-runtime-Cdsi_2Sv.js",
       "virtual:vinext-app-browser-entry",
-      "_framework-D_rUT4EX.js"
+      "_framework-CpU8czrD.js"
     ]
   },
   "node_modules/vinext/dist/shims/streamed-icons.js": {
-    "file": "_next/static/chunks/streamed-icons-Bumrcy-j.js",
+    "file": "system-snacks/_next/static/chunks/streamed-icons-DStotyk4.js",
     "name": "streamed-icons",
     "src": "node_modules/vinext/dist/shims/streamed-icons.js",
     "isDynamicEntry": true,
     "imports": [
-      "_rolldown-runtime-C60lm6uB.js",
-      "_framework-D_rUT4EX.js"
+      "_rolldown-runtime-Cdsi_2Sv.js",
+      "_framework-CpU8czrD.js"
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index--KQQku1Z.js",
+    "file": "system-snacks/_next/static/chunks/index-DOHlp8bQ.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
     "imports": [
-      "_rolldown-runtime-C60lm6uB.js",
-      "_framework-D_rUT4EX.js"
+      "_rolldown-runtime-Cdsi_2Sv.js",
+      "_framework-CpU8czrD.js"
     ],
     "dynamicImports": [
       "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
