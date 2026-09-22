@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import "./modern.css";
+import "./themes.css";
 
 export const metadata: Metadata = {
   title: "System Snacks — Small bites. Big systems.",

@@ -38,6 +38,8 @@ Pages publishes the root of `gh-pages`. Wait for the GitHub Pages workflow to su
 
 ## Learning behavior
 
+- Choose Normal for the clean light interface or Gaming for dark surfaces and neon accents. The appearance switch is available in every view and saves its preference on this device, separately from learning progress.
+
 - Answering both questions correctly marks a lesson Practiced; retries have no penalty.
 - Initial review is tomorrow. Remembered advances through 3, 7, then 14 days; Again resets to tomorrow.
 - Completed lessons remain available for extra review when no cards are due.
